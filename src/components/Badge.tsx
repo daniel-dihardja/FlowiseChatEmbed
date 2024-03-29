@@ -44,6 +44,7 @@ export const Badge = (props: Props) => {
         'background-color': props.badgeBackgroundColor ?? '#ffffff',
       }}
     >
+      ABC
       {/* Powered by
       <a
         ref={liteBadge}
